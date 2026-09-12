@@ -19,4 +19,4 @@ Projeyi sürdürülebilir ve temiz tutmak adına OOP prensiplerine uygun olarak 
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git](https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git)
+   git clone https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git
