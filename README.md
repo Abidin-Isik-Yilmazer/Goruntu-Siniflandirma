@@ -7,7 +7,6 @@ Sıfırdan model eğitmek yerine **Transfer Learning (Transfer Öğrenme)** yön
 * **Python**
 * **TensorFlow / Keras**
 * **MobileNetV2** (Önceden eğitilmiş ana model)
-* **Matplotlib & NumPy**
 
 ## 📂 Proje Yapısı (Modüler Mimari)
 Projeyi sürdürülebilir ve temiz tutmak adına OOP prensiplerine uygun olarak modüllere ayırdık:
