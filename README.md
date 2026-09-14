@@ -15,7 +15,7 @@ Projeyi sürdürülebilir ve temiz tutmak adına OOP prensiplerine uygun olarak 
 * `main.py`: Projenin kontrol merkezidir; kayıtlı modeli diskten yükler ve test fotoğraflarını analiz eder.
 * `benim_yapay_zekam.keras`: Eğitilmiş yapay zeka modelinin kalıcı olarak saklandığı ağırlık dosyasıdır.
 
-##⚙️ Kurulum ve Çalıştırma
+## ⚙️ Kurulum ve Çalıştırma
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
