@@ -15,8 +15,25 @@ Projeyi sürdürülebilir ve temiz tutmak adına OOP prensiplerine uygun olarak 
 * `main.py`: Projenin kontrol merkezidir; kayıtlı modeli diskten yükler ve test fotoğraflarını analiz eder.
 * `benim_yapay_zekam.keras`: Eğitilmiş yapay zeka modelinin kalıcı olarak saklandığı ağırlık dosyasıdır.
 
-## ⚙️ Kurulum ve Çalıştırma
+⚙️ Kurulum ve Çalıştırma
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git
+   git clone [https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git](https://github.com/Abidin-Isik-Yilmazer/Goruntu-Siniflandirma.git)
+   ```
+
+2. Proje dizinine gidin:
+   ```bash
+   cd Goruntu-Siniflandirma
+   ```
+
+3. Gerekli kütüphaneleri yükleyin:
+   ```bash
+   pip install tensorflow
+   ```
+   *(Not: Eğer requirements.txt dosyası eklerseniz `pip install -r requirements.txt` komutunu yazabilirsiniz)*
+
+4. Projeyi çalıştırın:
+   ```bash
+   python main.py
+   ```
