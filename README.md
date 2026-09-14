@@ -29,9 +29,9 @@ Projeyi sürdürülebilir ve temiz tutmak adına OOP prensiplerine uygun olarak 
 
 3. Gerekli kütüphaneleri yükleyin:
    ```bash
-   pip install tensorflow
+   pip install tensorflow Pillow
    ```
-   *(Not: Eğer requirements.txt dosyası eklerseniz `pip install -r requirements.txt` komutunu yazabilirsiniz)*
+   *(Not: Eğer projenize bir requirements.txt dosyası eklerseniz `pip install -r requirements.txt` komutunu da kullanabilirsiniz)*
 
 4. Projeyi çalıştırın:
    ```bash
